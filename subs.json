@@ -1,0 +1,11 @@
+{
+    "app_version": "0.24.1",
+    "app_version_int": 991,
+    "subscriptions": [
+        {
+            "service_id": 0,
+            "url": "https://www.youtube.com/channel/UCngn7SVujlvskHRvRKc1cTw",
+            "name": "BugsWriter"
+        }
+    ]
+}
